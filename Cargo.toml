@@ -1,2 +1,2 @@
 [workspace]
-members = ["rocket", "controls", "linalg", "rocketmain"]
+members = ["rocket", "controls", "rocketmain"]
